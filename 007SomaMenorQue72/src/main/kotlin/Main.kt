@@ -7,8 +7,6 @@ fun main() {
         print("Informe o $i º número: ")
         val numero = readln().toInt()
 
-        println("Valor digitado: $numero")
-
         if (numero < 72) {
             soma += numero
         }
