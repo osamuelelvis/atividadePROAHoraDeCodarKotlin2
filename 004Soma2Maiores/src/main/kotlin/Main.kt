@@ -1,3 +1,4 @@
+// 4. Faça um programa que leia 3 valores informados pelo usuário (considere que não serão informados valores iguais) e escrever a soma dos 2 maiores.
 fun main() {
     print("Informe o primeiro número: ")
     val num1 = readln().toInt()
