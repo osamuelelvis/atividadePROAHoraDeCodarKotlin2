@@ -1,3 +1,4 @@
+6. Faça um programa que receba quatro valores informados pelo usuário, mas informe somente o primeiro, o último e o maior de todos eles (considere que todos os números informados serão diferentes)
 fun main() {
     var num1: Int
     var num2: Int
