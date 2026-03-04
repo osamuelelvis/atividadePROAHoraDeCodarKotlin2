@@ -1,3 +1,4 @@
+// 2. Faça um programa que leia um valor informado pelo usuário e diga se o valor informado é positivo, negativo ou zero.
 fun main() {
     print("Digite um número: ")
     val valor_informado = readln().toInt()
