@@ -1,3 +1,4 @@
+// 9. Escreva um programa para ler o ano de nascimento de uma pessoa e escrever uma mensagem que diga se ela poderá ou não votar este ano (não é necessário considerar o mês em que ela nasceu).
 fun main() {
     val ano_atual = 2026;
     val ano_nascimento: Int;
