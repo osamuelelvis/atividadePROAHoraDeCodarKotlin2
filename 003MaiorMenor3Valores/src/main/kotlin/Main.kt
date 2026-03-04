@@ -1,3 +1,4 @@
+// 3. Faça um programa para ler 3 valores (considere que não serão informados valores iguais) e escrever o maior deles.
 fun main() {
     print("Informe o primeiro número: ")
     val num1 = readln().toInt()
